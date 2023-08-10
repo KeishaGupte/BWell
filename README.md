@@ -38,7 +38,8 @@ Target Group for this website:
 [2.] College / University level a. Youth
 
 ## Links:
-Github repo link :https://github.com/mish-25/Bwell
+Github repo link: https://github.com/mish-25/Bwell
+Live website link: https://dc2711.github.io/
 
 ## Technology stack:
 Technologies used in the project are:
